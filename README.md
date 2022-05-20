@@ -36,31 +36,3 @@
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Hi there! I'm Anédson Diego 👋
-
-- 🔭 Desenvolvedor Front End
-- 🌱 Estudando HTML5, CSS3 e Javascript
