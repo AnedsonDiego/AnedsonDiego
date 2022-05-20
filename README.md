@@ -3,12 +3,12 @@
 - 🔭 Desenvolvedor Front End
 - 🌱 Estudando HTML5, CSS3 e Javascript
 
- <div>
+ <div style="display:inline-block"><br>
   <a href="https://github.com/AnedsonDiego">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnedsonDiego&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnedsonDiego&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-<div style="display:block"><br>
+<div style="display:inline-block"><br>
   <img align="center" alt="Lescar-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lescar-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
